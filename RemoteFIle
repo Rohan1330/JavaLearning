@@ -13,3 +13,5 @@ git push -u origin main
 git remote add origin https://github.com/Rohan1330/JavaLearning.git
 git branch -M main
 git push -u origin main
+
+Making changes to remote file from secondary branch 
